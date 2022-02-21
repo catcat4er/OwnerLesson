@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 
-@Tag("simple")
+@Tag("owner")
 public class TestWithOwner extends TestBase {
 
     @Test
